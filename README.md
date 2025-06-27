@@ -7,7 +7,7 @@ We'll discovery:
 * application in the real life
 * Data quality the best friend of the models.
 
-##*Next steps to exercise:*
+##Next steps to exercise:
 * Preprocessing dataset:
 * Data Clensing and preparation.
 * EDA
