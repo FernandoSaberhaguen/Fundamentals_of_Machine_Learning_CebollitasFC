@@ -1,4 +1,4 @@
-# Fundamentals_of_Machine_Learning: Data Team's Project
+# Fundamentals of Machine Learning: Data Team's Project
 This project focuses on Fundamentals of Machine Learning. 
 
 We'll discovery:
